@@ -4,6 +4,7 @@
 
 Welcome to my tenement. Here you can find an infomation about my experience and contacts.
 
+[![csamuro's 42 stats](https://badge42.vercel.app/api/v2/cl1mtta1h001109mgowmovarb/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 ## Contact me!
 ![Alt text](https://github.com/ilRECh/ilRECh/blob/main/Telegram-icon.png) https://t.me/csamuro
