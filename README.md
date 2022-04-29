@@ -24,5 +24,4 @@ Welcome to my tenement. Here you can find an infomation about my experience and 
 |[minishell]() | C , Make |  |
 |[IRC server]() | C++ , Make |  |
 |[Proxy server]() | C++ , Make |  |
-|[SQLite test app]() | Java , Maven , SQLite |  |
 |coming soon|
